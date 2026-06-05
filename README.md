@@ -66,6 +66,9 @@
 
 ---
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/JaiAakash21?theme=dark&font=Content&ext=heatmap)
+
+---
 ## 🔥 Featured Projects
 
 ### 📝 Offline First Notes App
