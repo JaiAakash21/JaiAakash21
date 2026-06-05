@@ -40,23 +40,18 @@
 
 ## 💻 Tech Stack
 
-### Languages
+### I Code in
 
 <p>
 <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/>
-</p>
-
-### Database
-
-<p>
 <img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png"/>
 </p>
 
-### Tools
+### IDE and Tools I use
 
 <p>
 <img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/>
@@ -100,7 +95,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaiAakash21&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
