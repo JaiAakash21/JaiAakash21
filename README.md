@@ -120,6 +120,10 @@
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JaiAakash21&layout=compact&theme=tokyonight)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=JaiAakash21&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Jaiaakash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JaiAakash21&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 > "Consistency beats intensity. Build every day, improve every day."
