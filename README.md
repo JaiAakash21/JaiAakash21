@@ -95,11 +95,11 @@
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Jaiaakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaiAakash21&show_icons=true&theme=tokyonight)](https://github.com/JaiAakash21)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiAakash21&layout=compact&theme=tokyonight)](https://github.com/JaiAakash21)
 
----
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JaiAakash21&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 🎯 2026 Goals
 
