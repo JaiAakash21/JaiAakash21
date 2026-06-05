@@ -118,6 +118,8 @@
 
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
 
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JaiAakash21&layout=compact&theme=tokyonight)
+
 ---
 
 > "Consistency beats intensity. Build every day, improve every day."
