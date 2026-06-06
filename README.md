@@ -93,13 +93,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-[![Jaiaakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaiAakash21&show_icons=true&theme=tokyonight)](https://github.com/JaiAakash21)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiAakash21&layout=compact&theme=tokyonight)](https://github.com/JaiAakash21)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JaiAakash21&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 🎯 2026 Goals
 
@@ -112,9 +105,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JaiAakash21&show_icons=true&theme=tokyonight)
-
-### 📈 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
 
