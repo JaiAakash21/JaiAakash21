@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🎓 CS student passionate about **backend development** and system design
 - 🌱 Currently learning **MongoDB**, **Spring Boot**, and **REST APIs**
