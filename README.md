@@ -29,23 +29,36 @@
 
 ## 🔥 Featured Projects
 
+### 🏭 Industrial Defect Detection Workflow
+
+> *Python · PyTorch · Scikit-learn · Computer Vision*
+
+* Built an end-to-end workflow for industrial defect detection and anomaly analysis
+* Implemented image classification, anomaly detection, heatmap generation, and Precision-Recall evaluation
+* Used ResNet18 for feature extraction and Random Forest for classification
+* Developed and executed the workflow on the MANGO Workflow Platform
+
 ### 📝 Offline-First Notes App
+
 > *HTML · CSS · JavaScript*
 
-- Create and manage notes without an internet connection
-- Local-first data storage — fast, lightweight, zero dependency on a server
-
-### 🎮 Guess the Number Game
-> *JavaScript · DOM API*
-
-- Interactive browser game with dynamic feedback
-- Demonstrates event handling and DOM manipulation
+* Create and manage notes without an internet connection
+* Local-first data storage — fast, lightweight, zero dependency on a server
 
 ### 🚀 Currently Building
 
 **Task Manager API** — *Java · Spring Boot · MongoDB*
-- REST API with full CRUD operations
-- Hands-on practice with Spring Boot and MongoDB integration
+
+* REST API with full CRUD operations
+* Hands-on practice with Spring Boot and MongoDB integration
+* Learning backend architecture, database design, and API development
+
+### 🎮 Guess the Number Game
+
+> *JavaScript · DOM API*
+
+* Interactive browser game with dynamic feedback
+* Demonstrates event handling and DOM manipulation
 
 ---
 
