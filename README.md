@@ -1,166 +1,67 @@
 <div align="center">
 
-# 👋 Hey, I'm Jai Aakash
+# Hi, I'm Jai Aakash 👋
 
-**Computer Science Student | Backend Developer | DSA Enthusiast**
+**Full-stack & AI developer · CS student at Rajalakshmi Engineering College, Chennai**
 
-<p>
-  <a href="https://jaiaakash.xyz"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=flat&logo=chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/jai-aakash-s-487362330"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/JaiAakash21"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://leetcode.com/u/jaiaakash21/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-</p>
+I build practical, reliable software: emergency-response apps, fraud and crime analytics, and offline-first web apps.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-jaiaakash.xyz-0A66C2?style=for-the-badge)](https://jaiaakash.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaiaakash21-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaiaakash21)
+[![LeetCode](https://img.shields.io/badge/LeetCode-jaiaakash21-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/jaiaakash21/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshvajaiaakash@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a passionate **Computer Science student** at Rajalakshmi Engineering College with a strong foundation in **backend development**, **system design**, and **data structures & algorithms**. I love building efficient, scalable systems and solving complex problems. My focus is on mastering backend technologies and shipping quality software.
+Computer Science student focused on backend and full-stack development, applied machine learning, and problem solving. I learn by shipping: most of what is below came out of hackathons, coursework and side projects. I'm looking for a **software / backend internship**.
 
-- 🎓 **CS Student** - Rajalakshmi Engineering College, Chennai
-- 🔍 **Specialization** - Backend Development, RESTful APIs, Database Design
-- 🧠 **87+ LeetCode problems** solved | Grinding consistently
-- 🚀 **Active Builder** - Learning by shipping real projects
-- 📚 **Deep Diving** - Java, Spring Boot, MongoDB, System Architecture
-- ⚡ **Philosophy** - Consistency beats intensity. Build every day.
+## Featured projects
 
----
+| Project | What it does | Stack |
+|---|---|---|
+| [**FraudLens**](https://github.com/JaiAakash21/acentra-Goodfellas) | Explainable, rule-based fraud detection with a reviewer queue, rule studio, attack simulator and audit trail. Built for the Acentra Build to Care hackathon. | React, TypeScript, FastAPI, Python |
+| [**CrimeLens AI**](https://github.com/JaiAakash21/crimelens-ai) | Urban safety platform: incident reporting, hotspot detection, safer-route planning and an admin dashboard. | FastAPI, Supabase, Gemini, Next.js, Expo |
+| [**ROAD SAS**](https://github.com/JaiAakash21/road-sos) | Emergency navigation app that switches between online and offline maps to find the nearest hospital, police and fire services, with one-tap SOS. | Flutter, Dart, Mapbox, MBTiles, SQLite |
+| [**CampusFix**](https://github.com/JaiAakash21/Campusfix) | Campus issue-tracking portal with role-based access for students, staff and admins. [Live](https://campusfix.free.nf/) | React, PHP, MySQL |
+| [**Offline-First Notes**](https://github.com/JaiAakash21/Offline-First-App) | Installable PWA with IndexedDB storage, service-worker caching, AES-GCM encryption and background sync. [Live](https://offline-first-app-seven.vercel.app) | JavaScript, IndexedDB, Service Workers |
+| [**Industrial Defect Detection**](https://github.com/JaiAakash21/Industrial-Defect-Detection-Workflow) | ML pipeline for defect classification and anomaly analysis using ResNet18 features and a Random Forest. | Python, PyTorch, scikit-learn |
+| [**Web Security Scanner**](https://github.com/JaiAakash21/automated-web-security-scanner) | CLI that checks HTTPS, security headers and CORS behaviour, and exports JSON/CSV reports. | Python |
 
-## 🔥 Featured Projects
+## Tech stack
 
-### 🏭 Industrial Defect Detection Workflow
-**[View Repository](https://github.com/JaiAakash21/Industrial-Defect-Detection-Workflow)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-End-to-end machine learning workflow for industrial defect detection and anomaly analysis.
-- **Tech Stack**: Python, PyTorch, Scikit-learn, Computer Vision
-- Image classification with ResNet18 feature extraction
-- Anomaly detection using Random Forest classifier
-- Precision-Recall evaluation and heatmap visualization
-- Executed on MANGO Workflow Platform
-- ⭐ 1 star
+## Currently
 
-### 📝 Offline-First Notes App
-**[View Repository](https://github.com/JaiAakash21/Offline-First-App)**
+- Building and polishing hackathon projects into production-quality repos
+- Going deeper on Spring Boot, MongoDB aggregation and Docker
+- Practising data structures and algorithms on LeetCode
+- Making my first open-source contributions
 
-Production-ready offline-first web application with advanced features.
-- **Tech Stack**: JavaScript, IndexedDB, Service Workers, AES-GCM Encryption
-- Create and manage notes without internet connection
-- Local-first data storage with zero server dependency
-- Service Worker caching for optimal performance
-- ⭐ 2 stars
-
-### 🎮 Guess the Number Game
-**[View Repository](https://github.com/JaiAakash21/GuessTheNumber)**
-
-Interactive browser-based game demonstrating DOM manipulation and event handling.
-- **Tech Stack**: JavaScript, HTML5, CSS3, DOM API
-- Dynamic feedback and game logic
-- Clean UI and smooth user experience
-- ⭐ 1 star
-
-### 📊 Portfolio Website
-**[View Repository](https://github.com/JaiAakash21/Portfolio)** | **[Live](https://jaiaakash.xyz)**
-
-Personal portfolio showcasing projects, skills, and professional presence.
-- **Tech Stack**: HTML5, CSS3, Responsive Design
-- Clean, modern design
-- Professional project showcase
-- ⭐ 1 star
-
----
-
-## 💻 Tech Stack
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-### Backend & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
-</p>
-
-### Databases & Data
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sqlite&logoColor=white" alt="SQL">
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-</p>
-
----
-
-## 🧠 Problem Solving
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/jaiaakash21?theme=dark&font=Heebo&ext=heatmap)](https://leetcode.com/u/jaiaakash21/)
-
-**87+ problems solved** | Arrays · Hash Maps · Searching · Sorting · Recursion · DFS/BFS
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiAakash21&layout=compact&theme=tokyonight" alt="Top Languages" height="180px">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JaiAakash21&theme=tokyonight" alt="GitHub Streak" height="180px">
-</div>
-
----
-
-## 🚀 Currently Learning
-
-- **Spring Boot** - Building scalable REST APIs
-- **MongoDB Aggregation** - Advanced query pipelines
-- **Docker & Deployment** - Containerization and production readiness
-- **System Design** - Scaling principles and architecture patterns
-
----
-
-## 🎯 2026 Goals
-
-- [x] Master Java & DSA fundamentals
-- [x] Build offline-first web applications
-- [ ] 200+ LeetCode problems
-- [ ] Master MongoDB (aggregation, indexing, schema design)
-- [ ] Learn Spring Boot end-to-end
-- [ ] Ship 2 complete backend projects
-- [ ] Make first open source contribution
-- [ ] Land a backend development internship
-
----
-
-## 🔗 Let's Connect
-
-I'm open to collaborations, technical discussions, and internship opportunities!
-
-- **Portfolio**: [jaiaakash.xyz](https://jaiaakash.xyz)
-- **LinkedIn**: [jai-aakash-s](https://www.linkedin.com/in/jai-aakash-s-487362330)
-- **GitHub**: [@JaiAakash21](https://github.com/JaiAakash21)
-- **LeetCode**: [jaiaakash21](https://leetcode.com/u/jaiaakash21/)
-- **Email**: keshvajaiaakash@gmail.com
-
----
+## GitHub stats
 
 <p align="center">
-  <em>"Consistency beats intensity. Build every day, improve every day."</em>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JaiAakash21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiAakash21&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
+
+<p align="center"><i>Consistency beats intensity. Build every day, improve every day.</i></p>
