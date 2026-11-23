@@ -23,6 +23,7 @@ Computer Science student focused on backend and full-stack development, applied 
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**RelayForge**](https://github.com/JaiAakash21/RELAYFORGE) | Webhook delivery platform with a transactional outbox, signed requests, automatic retries, and dead-letter replay. Deployed a demo on AWS and verified seven failure and recovery scenarios. | Java, Spring Boot, PostgreSQL, Kafka, Next.js, Docker |
 | [**FraudLens**](https://github.com/JaiAakash21/acentra-Goodfellas) | Explainable, rule-based fraud detection with a reviewer queue, rule studio, attack simulator and audit trail. Built for the Acentra Build to Care hackathon. | React, TypeScript, FastAPI, Python |
 | [**CrimeLens AI**](https://github.com/JaiAakash21/crimelens-ai) | Urban safety platform: incident reporting, hotspot detection, safer-route planning and an admin dashboard. | FastAPI, Supabase, Gemini, Next.js, Expo |
 | [**ROAD SAS**](https://github.com/JaiAakash21/road-sos) | Emergency navigation app that switches between online and offline maps to find the nearest hospital, police and fire services, with one-tap SOS. | Flutter, Dart, Mapbox, MBTiles, SQLite |
